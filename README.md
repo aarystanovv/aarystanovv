@@ -13,11 +13,11 @@
 
 - :telescope: Участвовал в соревновании SDU Open2023, SDU Hackathon, Decentrathon.
 
-- :seedling: Завершил курс PHP(Laravel) в Extra(Element)!
+- :seedling: Завершил курс PHP-Laravel в Element!
 
 - :zap: На данный момент обучаюсь в курсе Able на Data Science.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arystanovv) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ttt.arystan@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-arystanovv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arystanovv) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ttt.arystan@gmail.com)
 
 ---
 
