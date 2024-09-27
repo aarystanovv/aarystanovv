@@ -9,9 +9,9 @@ I'm Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :telescope: Participated in the competition SDU Open2023, SDU Hackathon, Decentrathon.
 
-- :seedling: Completed the course PHP-Laravel в Element!
+- :seedling: Completed the course PHP-Laravel in Element!
 
-- :zap: Completed the course Able на Data Science.
+- :zap: Completed the course Able in Data Science.
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-arystanovv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arystanovv) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ttt.arystan@gmail.com)
 
@@ -73,7 +73,7 @@ I'm Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+<!-- ### 💻 Completed courses:
 
 | Courses                                                         | Date              |
 | ----------------------------------------------------------------| :---------------: |
