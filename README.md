@@ -1,26 +1,26 @@
 
-# Привет, меня зовут Темірлан!
+# Hello!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
-Я Backend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался со Школы, где я впервые учил свой первый язык программирование. После этого был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык C++, Python, попробовал свои силы в web! С ноября 2022 года по мая 2022 я изучал бэкенд разработку(PHP-Laravel) на курсах Extra(Element). 
+I'm Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Участвовал в соревновании SDU Open2023, SDU Hackathon, Decentrathon.
+- :telescope: Participated in the competition SDU Open2023, SDU Hackathon, Decentrathon.
 
-- :seedling: Завершил курс PHP-Laravel в Element!
+- :seedling: Completed the course PHP-Laravel в Element!
 
-- :zap: На данный момент обучаюсь в курсе Able на Data Science.
+- :zap: Completed the course Able на Data Science.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-arystanovv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arystanovv) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ttt.arystan@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-arystanovv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arystanovv) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ttt.arystan@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social network:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/arystanov/" target="_blank">
@@ -42,7 +42,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -73,7 +73,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
@@ -96,7 +96,7 @@
 
 --- -->
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
