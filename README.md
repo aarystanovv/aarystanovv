@@ -70,25 +70,16 @@ I'm Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 
-### 🛠 Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-</div>
 
 ---
 
 <!-- ### 💻 Пройденные курсы:
 
-| Курсы                                                           | Дата              |
+| Courses                                                         | Date              |
 | ----------------------------------------------------------------| :---------------: |
 | sdu/arduino                                                     | 03/2022 - 05/2022 |
 | element/php/laravel                                             | 11/2022 - 05/2023 |
-| able/data-science                                               | 12/2022 - xx/2022 |
+| able/data-science                                               | 12/2022 - 05/2022 |
 
 
 --- -->
