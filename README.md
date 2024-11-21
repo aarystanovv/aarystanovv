@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I'm Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+I'm Backend Developer. 
 
 - :telescope: Participated in the competition SDU Open 2023, SDU Hackathon, Decentrathon.
 
