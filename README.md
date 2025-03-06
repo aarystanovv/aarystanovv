@@ -97,9 +97,6 @@ I'm Backend Developer.
     <td>
       <img alt="top langs" src="https://github-readme-stats.vercel.app/api?username=aarystanovv&show_icons=true&theme=vision-friendly-dark"/>
     </td>
-    <td>
-      <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarystanovv&layout=compact"/>
-    </td>
   </tr>
 </table>
 
