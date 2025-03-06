@@ -94,6 +94,9 @@ I'm Backend Developer.
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aarystanovv&layout=compact&theme=vision-friendly-dark" />
     </td>
+    <td>
+      <img alt="top langs" src="https://github-readme-stats.vercel.app/api?username=aarystanovv&show_icons=true&theme=transparent"/>
+    </td>
   </tr>
 </table>
 
