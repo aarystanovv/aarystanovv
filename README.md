@@ -1,20 +1,13 @@
+### 👋 Hello, I'm Temirlan Arystan!
 
-# Hello!
+#### 🚀 Software Developer | Problem Solver
 
----
+##### Welcome to my GitHub profile! I'm a passionate software developer with a knack for turning creative ideas into reality and solving real-world problems.
 
-### :man_technologist: About me:
+#### About Me
 
-I'm Backend Developer. 
-
-- :telescope: Participated in the competition SDU Open 2023, SDU Hackathon, Decentrathon.
-
-- :seedling: Completed the course PHP-Laravel in Element!
-
-- :zap: Completed the course Able in Data Science.
-
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-arystanovv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arystanovv) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ttt.arystan@gmail.com)
-
+- 🌟 Focus: Building robust and scalable software solutions
+- 💻 Specialization: Backend Web Development, System Design, Cloud Computing
 ---
 
 ### 🤝 Social network:
